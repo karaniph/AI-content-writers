@@ -16,14 +16,14 @@ The document also details the benefits of using AI content writers, including co
 
 Key Sections:
 
-AI-Powered Content Creation on a Budget   
-4 AI Writers Every Business/Content Creator Needs   
-Affordable AI Content Writers: Empowering Your Content Strategy   
+-AI-Powered Content Creation on a Budget   
+-4 AI Writers Every Business/Content Creator Needs   
+-Affordable AI Content Writers: Empowering Your Content Strategy   
   
 Additional Notes:
 
 [DOWNLOAD FULL PDF](https://drive.google.com/file/d/1OYXtUSIo-9SPcxGygI2RSXN2qUhtEZYo/view?usp=drive_link)
-The document includes screenshots of pricing plans and features for each AI tool.
+
 
 A bonus section suggests building a CustomGPT for personalized AI content generation.   
 Keywords: AI content writer, Frase AI, GravityWrite AI, Rytr AI, Machined AI, content strategy, SEO, cost-effective, time efficiency, content marketing.
