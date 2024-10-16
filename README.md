@@ -17,7 +17,9 @@ The document also details the benefits of using AI content writers, including co
 Key Sections:
 
 -AI-Powered Content Creation on a Budget   
--4 AI Writers Every Business/Content Creator Needs   
+
+-4 AI Writers Every Business/Content Creator Needs
+
 -Affordable AI Content Writers: Empowering Your Content Strategy   
   
 Additional Notes:
